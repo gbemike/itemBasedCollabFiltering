@@ -5,4 +5,4 @@ This notebook focuses on item-based collaborative filtering, which involves iden
 In summary, item-based collaborative filtering enables us to recommend similar items to users based on their interactions with other items. By leveraging the similarities between items, we can provide personalized recommendations that align with users' preferences and interests.
 
 # Datasets used
-There are two datasets used 'movies.csv' and 'ratings.csv'. The 'movie.csv' contains movie titles and their genres, while the 'rating.csv'contains each movie rating joined by their respective ids
+There are two datasets used movies.csv and ratings.csv. The movie.csv contains movie titles and their genres, while the 'rating.csv'contains each movie rating joined by their respective ids
